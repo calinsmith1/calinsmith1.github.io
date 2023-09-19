@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(221, 221, 226);
+}
+
+#banner-image {
+    box-shadow: 0 5px #999;
+    border-radius: 15px;
+}
+
+#banner-image-div {
+  text-align: center;
+}
+
+#page-heading {
+    color: white;
+    box-shadow: 0 5px #999;
+    background-color: #70C0FF;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+#page-message {
+    color: white;
+    background-color: #70C0FF;
+    box-shadow: 0 5px #999;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
